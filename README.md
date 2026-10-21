@@ -7,3 +7,7 @@ Repository untuk latihan Git, GitHub, Bash, dan Python.
 - GitHub
 - Bash scripting
 - Python scripting
+
+## Environment
+- OS: Ubuntu Server
+- Version Control: Git
