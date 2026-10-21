@@ -1,0 +1,4 @@
+Catatan Git:
+1. Git menyimpan riwayat perubahan.
+2. Branch memungkinkan pengembangan terpisah.
+3. Merge menggabungkan perubahan antar-branch.
