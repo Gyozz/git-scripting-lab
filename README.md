@@ -9,5 +9,5 @@ Repository untuk latihan Git, GitHub, Bash, dan Python.
 - Python scripting
 
 ## Environment
-- OS: Ubuntu Server
+- OS: Ubuntu Server 24.04.5 LTS
 - Version Control: Git
