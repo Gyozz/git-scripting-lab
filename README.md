@@ -1,4 +1,4 @@
-# Git Scripting Lab
+# Git Learning Practice
 
 Repository untuk latihan Git, GitHub, Bash, dan Python.
 
